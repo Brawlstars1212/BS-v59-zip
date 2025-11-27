@@ -1,6 +1,8 @@
 # BS-v59-zip
 
-Based on [BSL.V59]("https://github.com/LkPrtctrd/BSL.v59.git")
+Based on BSL.V59
+
+
 
 apk: 
 https://mega.nz/file/KE0lXbaI#CHHoO3U9mnoZ4f-2PyW9y0Lw9Rljy_JkHPltOHf56so
